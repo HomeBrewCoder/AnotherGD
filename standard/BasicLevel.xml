@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<level>
+
+<meta>
+<title>Just a test</title>
+<isDemon>0</isDemon>
+<difficulty>1</difficulty>
+</meta>
+
+<level>
+<!-- Just a Basic Block --!>
+<block>
+<!-- I will update this with an entire library of GD Blocks --!>
+<type>Spike</type>
+<XPos>10</XPos>
+<!-- On Ground --!>
+<YPos>0</YPos>
+</block>
+
+</level>
